@@ -1,7 +1,7 @@
 # ntopia
 Nba player voting app
 
-https://ntopia.herokuapp.com/
+https://ntopia.herokuapp.com
 
 This is a player voting app for NBA (inspired by Facemash).
 Powered by Node.js, MongoDB and React with Flux architecture and server-side rendering.
